@@ -1,0 +1,15 @@
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\bin\Debug\net6.0\fundamentos.exe
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\bin\Debug\net6.0\fundamentos.deps.json
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\bin\Debug\net6.0\fundamentos.runtimeconfig.json
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\bin\Debug\net6.0\fundamentos.dll
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\bin\Debug\net6.0\fundamentos.pdb
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.csproj.AssemblyReference.cache
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfoInputs.cache
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.AssemblyInfo.cs
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.csproj.CoreCompileInputs.cache
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.dll
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\refint\fundamentos.dll
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.pdb
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\fundamentos.genruntimeconfig.cache
+C:\workspace\primeiro-repositorio-github-dio\configuracao-do-ambiente-.net\fundamentos\obj\Debug\net6.0\ref\fundamentos.dll
