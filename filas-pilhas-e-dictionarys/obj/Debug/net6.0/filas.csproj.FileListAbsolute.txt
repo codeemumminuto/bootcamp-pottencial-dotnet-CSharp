@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\filas\bin\Debug\net6.0\filas.exe
+C:\Users\GN\Desktop\filas\bin\Debug\net6.0\filas.deps.json
+C:\Users\GN\Desktop\filas\bin\Debug\net6.0\filas.runtimeconfig.json
+C:\Users\GN\Desktop\filas\bin\Debug\net6.0\filas.dll
+C:\Users\GN\Desktop\filas\bin\Debug\net6.0\filas.pdb
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.AssemblyInfo.cs
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.dll
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\refint\filas.dll
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.pdb
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\filas.genruntimeconfig.cache
+C:\Users\GN\Desktop\filas\obj\Debug\net6.0\ref\filas.dll

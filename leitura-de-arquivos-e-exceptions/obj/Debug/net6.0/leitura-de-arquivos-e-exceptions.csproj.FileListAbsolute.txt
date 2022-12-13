@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\bin\Debug\net6.0\leitura-de-arquivos-e-exceptions.exe
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\bin\Debug\net6.0\leitura-de-arquivos-e-exceptions.deps.json
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\bin\Debug\net6.0\leitura-de-arquivos-e-exceptions.runtimeconfig.json
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\bin\Debug\net6.0\leitura-de-arquivos-e-exceptions.dll
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\bin\Debug\net6.0\leitura-de-arquivos-e-exceptions.pdb
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.AssemblyInfo.cs
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.dll
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\refint\leitura-de-arquivos-e-exceptions.dll
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.pdb
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\leitura-de-arquivos-e-exceptions.genruntimeconfig.cache
+C:\Users\GN\Desktop\leitura-de-arquivos-e-exceptions\obj\Debug\net6.0\ref\leitura-de-arquivos-e-exceptions.dll
