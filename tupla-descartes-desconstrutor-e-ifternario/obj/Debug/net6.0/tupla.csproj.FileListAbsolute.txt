@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\tupla\bin\Debug\net6.0\tupla.exe
+C:\Users\GN\Desktop\tupla\bin\Debug\net6.0\tupla.deps.json
+C:\Users\GN\Desktop\tupla\bin\Debug\net6.0\tupla.runtimeconfig.json
+C:\Users\GN\Desktop\tupla\bin\Debug\net6.0\tupla.dll
+C:\Users\GN\Desktop\tupla\bin\Debug\net6.0\tupla.pdb
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.AssemblyInfo.cs
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.dll
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\refint\tupla.dll
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.pdb
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\tupla.genruntimeconfig.cache
+C:\Users\GN\Desktop\tupla\obj\Debug\net6.0\ref\tupla.dll
