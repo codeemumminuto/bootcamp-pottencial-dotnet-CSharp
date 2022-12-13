@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\bin\Debug\net6.0\tipos-especiais-no-csharp.exe
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\bin\Debug\net6.0\tipos-especiais-no-csharp.deps.json
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\bin\Debug\net6.0\tipos-especiais-no-csharp.runtimeconfig.json
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\bin\Debug\net6.0\tipos-especiais-no-csharp.dll
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\bin\Debug\net6.0\tipos-especiais-no-csharp.pdb
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.AssemblyInfo.cs
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.dll
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\refint\tipos-especiais-no-csharp.dll
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.pdb
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\tipos-especiais-no-csharp.genruntimeconfig.cache
+C:\Users\GN\Desktop\tipos-especiais-no-csharp\obj\Debug\net6.0\ref\tipos-especiais-no-csharp.dll
