@@ -1,0 +1,17 @@
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\bin\Debug\net6.0\nuget-serializacao-e-atributos.exe
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\bin\Debug\net6.0\nuget-serializacao-e-atributos.deps.json
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\bin\Debug\net6.0\nuget-serializacao-e-atributos.runtimeconfig.json
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\bin\Debug\net6.0\nuget-serializacao-e-atributos.dll
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\bin\Debug\net6.0\nuget-serializacao-e-atributos.pdb
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.AssemblyInfo.cs
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.csproj.CopyComplete
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.dll
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\refint\nuget-serializacao-e-atributos.dll
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.pdb
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\nuget-serializacao-e-atributos.genruntimeconfig.cache
+C:\Users\GN\Desktop\nuget-serializacao-e-atributos\obj\Debug\net6.0\ref\nuget-serializacao-e-atributos.dll
