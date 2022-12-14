@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\abstrata\bin\Debug\net6.0\abstrata.exe
+C:\Users\GN\Desktop\abstrata\bin\Debug\net6.0\abstrata.deps.json
+C:\Users\GN\Desktop\abstrata\bin\Debug\net6.0\abstrata.runtimeconfig.json
+C:\Users\GN\Desktop\abstrata\bin\Debug\net6.0\abstrata.dll
+C:\Users\GN\Desktop\abstrata\bin\Debug\net6.0\abstrata.pdb
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.AssemblyInfo.cs
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.dll
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\refint\abstrata.dll
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.pdb
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\abstrata.genruntimeconfig.cache
+C:\Users\GN\Desktop\abstrata\obj\Debug\net6.0\ref\abstrata.dll
