@@ -1,0 +1,15 @@
+C:\Users\GN\Desktop\abstracao-pratica\bin\Debug\net6.0\abstracao-pratica.exe
+C:\Users\GN\Desktop\abstracao-pratica\bin\Debug\net6.0\abstracao-pratica.deps.json
+C:\Users\GN\Desktop\abstracao-pratica\bin\Debug\net6.0\abstracao-pratica.runtimeconfig.json
+C:\Users\GN\Desktop\abstracao-pratica\bin\Debug\net6.0\abstracao-pratica.dll
+C:\Users\GN\Desktop\abstracao-pratica\bin\Debug\net6.0\abstracao-pratica.pdb
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.csproj.AssemblyReference.cache
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.AssemblyInfoInputs.cache
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.AssemblyInfo.cs
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.csproj.CoreCompileInputs.cache
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.dll
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\refint\abstracao-pratica.dll
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.pdb
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\abstracao-pratica.genruntimeconfig.cache
+C:\Users\GN\Desktop\abstracao-pratica\obj\Debug\net6.0\ref\abstracao-pratica.dll
