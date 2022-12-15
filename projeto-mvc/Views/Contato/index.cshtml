@@ -10,7 +10,14 @@
     <a asp-action="Criar">Novo Contato</a>
 </p>
 
-<table class="table">
+<table class="table">@foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(model => item.Id)
+            </td>
+        </tr>
+    }
     <thead>
         <tr>
             <th>
@@ -28,6 +35,27 @@
         </tr>
     </thead>
     <tbody>
-        
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(model => item.Id)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Telefone)
+                </td>
+                <td>
+                    @Html.DisplayFor(model => item.Ativo)
+                </td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="item.id">Editar</a>
+                    <a asp-action="Detalhes" asp-route-id="item.id">Detalhes</a>
+                    <a asp-action="Deletar" asp-route-id="item.id">Deletar</a>
+                </td>
+            </tr>
+        }
     </tbody>
 </table>
