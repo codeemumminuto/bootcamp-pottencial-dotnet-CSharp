@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alanl\\Desktop\\workspace\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj": {}
+    "C:\\Users\\GN\\Desktop\\Nova pasta\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alanl\\Desktop\\workspace\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj": {
+    "C:\\Users\\GN\\Desktop\\Nova pasta\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alanl\\Desktop\\workspace\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj",
+        "projectUniqueName": "C:\\Users\\GN\\Desktop\\Nova pasta\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj",
         "projectName": "ProjetoMVC",
-        "projectPath": "C:\\Users\\alanl\\Desktop\\workspace\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj",
-        "packagesPath": "C:\\Users\\alanl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alanl\\Desktop\\workspace\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\obj\\",
+        "projectPath": "C:\\Users\\GN\\Desktop\\Nova pasta\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\ProjetoMVC.csproj",
+        "packagesPath": "C:\\Users\\GN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\GN\\Desktop\\Nova pasta\\bootcamp-pottencial-dotnet-CSharp\\projeto-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alanl\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\GN\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
